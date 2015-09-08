@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            D7ET Scratch
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: D7ET Scratch Programming
+  avatar: d7et-scratch-cat.jpg
+  bio: "Scratch programming resources for Dublin 7 Education Together"
   email:
   disqus-shortname:
   twitter: #username
